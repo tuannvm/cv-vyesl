@@ -98,6 +98,8 @@ Overall mark: 6.0  <br/>
 									<h3>MOBILE ENTERTAINMENT COMPANY, VIETNAM</h3>
 									<p style="text-align:left;">Mecorp is one of the leading companies in the field of service-oriented development to provide digital content on mobile devices.<br/> <br/>
 										Position: <b>Officer of Human Resource</b> | Full time | June 2014 - now </p>
+										<li style="text-align:left;">	Support training department: make payment request for internal tuition, prepare statistic report & report to higher level on program quality.</li>
+										<li style="text-align:left;">	Administer company recruitment’s fan page: find appropriate content, brainstorm for new idea.</li>
 										<li style="text-align:left;">	Organize-Administrate "Meer Companion" program.</li>
 										<li style="text-align:left;">	Monitor yearly leaves and working days.</li>
 											<li style="text-align:left;">Welcome new employees.</li>

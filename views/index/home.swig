@@ -38,7 +38,7 @@
 							<header>
 								<h1>Hi. I'm <strong>Đoàn Duy Thuỳ Vy</strong>.</h1>
 							</header>
-							<p>I'm glad about your visit on my resume - <a href="http://vyesl.us">http://vyesl.us</a>. Hope that you have had a good experience.</p>
+							<p>I'm glad about your visit on my resume - <a href="http://www.vyesl.us">http://www.vyesl.us</a>. Hope that you have had a good experience.</p>
 							<a href="#school" class="button big scrolly">Check what I've learned</a>
 						</div>
 					</div>

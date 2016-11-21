@@ -38,7 +38,7 @@
 							<header>
 								<h1>Hi. I'm <strong>Đoàn Duy Thuỳ Vy</strong>.</h1>
 							</header>
-							<p>I'm glad about your visit on my resume - <a href="http://vyesl.banhbeo.co">http://vyesl.banhbeo.co</a>. Hope that you have had a good experience.</p>
+							<p>I'm glad about your visit on my resume - <a href="http://vyesl.zelshop.com">http://vyesl.zelshop.com</a>. Hope that you have had a good experience.</p>
 							<a href="#school" class="button big scrolly">Check what I've learned</a>
 						</div>
 					</div>
@@ -267,7 +267,7 @@ Position: <b>Waitress</b> | Part time | 2010
 					</div>
 					<footer>
 						<ul id="copyright">
-							<li>&copy; Banh Beo Technology. All rights reserved.</li><li>Created by: <a href="http://banhbeo.co">BanhBeo.co</a></li>
+							<li>&copy; All rights reserved.</li><li>Created by: <a href="https://tuannvm.com">Tuan Nguyen</a></li>
 						</ul>
 					</footer>
 				</article>

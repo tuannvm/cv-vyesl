@@ -32,13 +32,13 @@
 				<article class="container" id="top">
 					<div class="row">
 						<div class="4u 12u(mobile)">
-							<span class="image fit"><img src="http://i.imgur.com/dJXOja8.jpg" alt="" /></span>
+							<span class="image fit"><img src="http://i.imgur.com/75NoPUD.jpg" alt="" /></span>
 						</div>
 						<div class="8u 12u(mobile)">
 							<header>
 								<h1>Hi. I'm <strong>Đoàn Duy Thuỳ Vy</strong>.</h1>
 							</header>
-							<p>I'm glad about your visit on my resume - <a href="http://vyesl.zelshop.com">http://vyesl.zelshop.com</a>. Hope that you have had a good experience.</p>
+							<p>I'm glad about your visit on my resume - <a href="http://vyesl.us">http://vyesl.us</a>. Hope that you have had a good experience.</p>
 							<a href="#school" class="button big scrolly">Check what I've learned</a>
 						</div>
 					</div>
@@ -98,6 +98,8 @@ Overall mark: 6.0  <br/>
 									<h3>MOBILE ENTERTAINMENT COMPANY, VIETNAM</h3>
 									<p style="text-align:left;">Mecorp is one of the leading companies in the field of service-oriented development to provide digital content on mobile devices.<br/> <br/>
 										Position: <b>Officer of Human Resource</b> | Full time | June 2014 - now </p>
+										<li style=":text-align: left;"> Work closely with accounting and finance departments to track and manage employee time (Timekeeper).</li>
+										<li style=":text-align: left;"> Wrap up & finish necessary steps for employee leaving. </li>
 										<li style="text-align:left;">	Support training department: make payment request for internal tuition, prepare statistic report & report to higher level on program quality.</li>
 										<li style="text-align:left;">	Administer company recruitment’s fan page: find appropriate content, brainstorm for new idea.</li>
 										<li style="text-align:left;">	Organize-Administrate "Meer Companion" program.</li>

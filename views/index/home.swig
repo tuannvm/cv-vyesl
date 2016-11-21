@@ -99,15 +99,14 @@ Overall mark: 6.0  <br/>
 									<p style="text-align:left;">Mecorp is one of the leading companies in the field of service-oriented development to provide digital content on mobile devices.<br/> <br/>
 										Position: <b>Officer of Human Resource</b> | Full time | June 2014 - now </p>
 										<li style="text-align:left;"> Work closely with accounting and finance departments to track and manage employee time (Timekeeper).</li>
-										<li style="text-align:left;"> Wrap up & finish necessary steps for employee leaving. </li>
 										<li style="text-align:left;">	Support training department: make payment request for internal tuition, prepare statistic report & report to higher level on program quality.</li>
 										<li style="text-align:left;">	Administer company recruitment’s fan page: find appropriate content, brainstorm for new idea.</li>
 										<li style="text-align:left;">	Organize-Administrate "Meer Companion" program.</li>
 										<li style="text-align:left;">	Monitor yearly leaves and working days.</li>
 											<li style="text-align:left;">Welcome new employees.</li>
 												<li style="text-align:left;">Monitor and conduct benefit policy for employee (family anniversary, death, other procedure policy...)</li>
-													<li style="text-align:left;"> Consult health insurance policy of Bảo Việt</li>
-														<li style="text-align:left;"> Monitor and support procedure for emloyee's departure.</li>
+													<li style="text-align:left;"> Consult health insurance policy annually</li>
+														<li style="text-align:left;"> Wrap up & finish necessary steps for emloyee's departure.</li>
 														<p style="text-align:left;">
 
 															<br/>

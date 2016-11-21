@@ -110,7 +110,7 @@ Overall mark: 6.0  <br/>
 
 															<br/>
      Position: <b>Officer of Internal Communication</b> | Full time | May – Sep 2013
-		<li style="text-align:left;">	Admin company’s fanpage and website </li>
+		<li style="text-align:left;">	Administer company’s fanpage and website </li>
 			<li style="text-align:left;">	Organize company events including sport and other entertainment contests for colleagues.  </li>
 				<li style="text-align:left;">	Union Secretary.  </li>
 </p>

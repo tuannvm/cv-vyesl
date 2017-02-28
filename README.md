@@ -1,3 +1,3 @@
-# admin
+[![Build Status](https://travis-ci.org/tuannvm/cv-vyesl.svg?branch=master)](https://travis-ci.org/tuannvm/cv-vyesl)
 
-a [Sails](http://sailsjs.org) application
+### Just an ordinary CV

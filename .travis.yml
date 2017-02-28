@@ -12,6 +12,3 @@ deploy:
  script: chmod 600 deploy_key && ssh -o StrictHostKeyChecking=no -i deploy_key -p 2222 root@104.238.161.37 ./deploy.sh
  on:
    branch: master
-
-
-command="./deploy.sh",no-port-forwarding,no-agent-forwarding,no-pty ssh-rsa AAAWL tuannvm@tuannvm.com

@@ -1,3 +1,12 @@
 language: node_js
 node_js:
-  - 0.12
+- 0.12
+before_install:
+- openssl aes-256-cbc -K $encrypted_c1b04562182d_key -iv $encrypted_c1b04562182d_iv
+  -in deploy_key.enc -out ./deploy_key -d
+deploy:
+ provider: script
+ skip_cleanup: true
+ script: chmod 600 deploy_key && ssh -o StrictHostKeyChecking=no -i deploy_key root@104.238.161.37 ./deploy.sh
+ on:
+   branch: master

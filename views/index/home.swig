@@ -38,9 +38,8 @@
 							<header>
 								<h1>Hi. I'm <strong>Đoàn Duy Thuỳ Vy</strong>.</h1>
 							</header>
-							<p>For 3+ years working as a HR executive, I've been working with many projects required regular monitoring and extended contribution. As Steve Jobs Once Said, 'People With Passion Can Change The World', this working spirit has become my undivided part.</p>
-<p>Being responsible for organization development that generates the culture of the organization, I've learnt to live with stressful tasks, ambiguous guidelines, etc... . And thanks to those difficulties, I've been able to develop my skill assets, which make me a good planner and a "plan B-is-always-available" crew member. Moreover, I'm exceptionally calm during the emergency case, and that help me get through a handful of times when a lot of people were counting on HR team (salary wipe, you know :3)</p>
-<p>Keeping good connection with colleagues, in my opinion, is the crucial aspect of the person working in human-related fields. It not only helps me have a quality time, but also broadens my knowledge on their personal aspects.  Added to that, I'm considered as a reliable person, who always take full responsibility for assigned tasks and think twice (or more?) before making any decision.</p>
+							<p>As a HR executive with 3+ year experience,  being responsible for organization development that generates the culture of the organization, I've learnt to live with stressful tasks, ambiguous guidelines, etc... . And thanks to those difficulties, I've been able to develop my skill assets, which make me a good planner and a "plan B-is-always-available" crew member. Moreover, I'm exceptionally calm during the emergency case, and that help me get through a handful of times when a lot of people were counting on HR team.</p>
+<P>Keeping good connection with colleagues, in my opinion, is the crucial aspect of the person working in human-related fields.  Added to that, I'm considered as a reliable person, who always take full responsibility for assigned tasks and think twice before making any decision.</p>
 							<a href="#school" class="button big scrolly">Check what I've learned</a>
 						</div>
 					</div>

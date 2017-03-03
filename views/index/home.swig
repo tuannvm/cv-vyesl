@@ -34,11 +34,10 @@
 						<div class="4u 12u(mobile)">
 							<span class="image fit"><img src="http://i.imgur.com/75NoPUD.jpg" alt="" /></span>
 						</div>
-						<div class="8u 12u(mobile)">
+						<div class="4u 12u(mobile)">
 							<header>
 								<h1>Hi. I'm <strong>Đoàn Duy Thuỳ Vy</strong>.</h1>
 							</header>
-							<p>I'm glad about your visit on my resume - <a href="http://www.vyesl.us">http://www.vyesl.us</a>. Hope that you have had a good experience.</p>
 							<p>For 3+ years working as a HR executive, I've been working with many projects required regular monitoring and extended contribution. As Steve Jobs Once Said, 'People With Passion Can Change The World', this working spirit has become my undivided part.</p>
 
 <p>Being responsible for organization development that generates the culture of the organization, I've learnt to live with stressful tasks, ambiguous guidelines, etc... . And thanks to those difficulties, I've been able to develop my skill assets, which make me a good planner and a "plan B-is-always-available" crew member. Moreover, I'm exceptionally calm during the emergency case, and that help me get through a handful of times when a lot of people were counting on HR team (salary wipe, you know :3)</p>

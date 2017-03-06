@@ -13,6 +13,14 @@
 		<link rel="stylesheet" href="css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
+		<!-- Latest compiled and minified CSS -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	</head>
 	<body>
 
@@ -23,6 +31,7 @@
 					<li><a href="#school">School</a></li>
 					<li><a href="#work">Work</a></li>
 					<li><a href="#portfolio">Portfolio</a></li>
+					<li><a href="#interest">Interest</a></li>
 					<li><a href="#contact">Contact</a></li>
 				</ul>
 			</nav>
@@ -38,7 +47,7 @@
 							<header>
 								<h1>Hi. I'm <strong>Đoàn Duy Thuỳ Vy</strong>.</h1>
 							</header>
-							<p>As a HR executive with 3+ year experience,  being responsible for organization development that generates the culture of the organization, I've learnt to live with stressful tasks, ambiguous guidelines, etc... . And thanks to those difficulties, I've been able to develop my skill assets, which make me a good planner and a "plan B-is-always-available" crew member. Moreover, I'm exceptionally calm during the emergency case, and that help me get through a handful of times when a lot of people were counting on HR team.</p>
+							<p>As a HR executive with 3 year experience,  being responsible for organization development that generates the culture of the organization, I've learnt to live with stressful tasks, ambiguous guidelines, etc... . And thanks to those difficulties, I've been able to develop my skill assets, which make me a good planner and a "plan B-is-always-available" crew member. Moreover, I'm exceptionally calm during the emergency case, and that help me get through a handful of times when a lot of people were counting on HR team.</p>
 <P>Keeping good connection with colleagues, in my opinion, is the crucial aspect of the person working in human-related fields.  Added to that, I'm considered as a reliable person, who always take full responsibility for assigned tasks and think twice before making any decision.</p>
 							<a href="#school" class="button big scrolly">Check what I've learned</a>
 						</div>
@@ -122,10 +131,35 @@ Overall mark: 6.0  <br/>
 					</div>
 					<footer>
 						<p>Looking for more?</p>
-						<a href="#portfolio" class="button big scrolly">See some of my recent work</a>
+						<a href="#interest" class="button big scrolly">Check out my interests</a>
 					</footer>
 				</article>
 			</div>
+
+		<!-- Interest -->
+				<div class="wrapper style2">
+					<article id="interest">
+						<header>
+							<h2>Fields I want to work on</h2>
+							<p>"Success is the result of perfection, hard work, learning from failure, loyalty, and persistence." - Colin Powell</p>
+						</header>
+						<div class="container">
+							<div class="row">
+
+									<section class="box style1">
+										<h3 class="text-warning icon fa-facebook">ashion</h3>
+										<h3 class="text-success icon fa-home"> Decoration</h3>
+										<h3 class="text-info icon fa-suitcase"> Agent</h3>
+									</section>
+
+							</div>
+						</div>
+						<footer>
+							<p>Impressed?</p>
+							<a href="#portfolio" class="button big scrolly">See some of my recent work</a>
+						</footer>
+					</article>
+				</div>
 
 		<!-- Portfolio -->
 			<div class="wrapper style3">
@@ -139,28 +173,28 @@ Overall mark: 6.0  <br/>
 							<div class="4u 12u(mobile)">
 								<article class="box style2">
 									<!-- <a class="image featured" id="leanModal" href="#job1"><img src="images/thuy.jpg" alt="" /></a> -->
-									<h3><a id="leanModal" href="#job1">“THUY’S DREAM” NATION-WIDE CAMPAIGN</a></h3>
+									<h3><a id="leanModal" href="#">“THUY’S DREAM” NATION-WIDE CAMPAIGN</a></h3>
 
 								</article>
 							</div>
 							<div class="4u 12u(mobile)">
 								<article class="box style2">
 									<!--	<a id="leanModal" href="#job2" class="image featured"><img src="images/dioxin.jpg" alt="" /></a> -->
-									<h3><a id="leanModal" href="#job2">SOCIAL PHOTO DISPLAY TO SUPPORT DIOXIN-POISONED VICTIMS </a></h3>
+									<h3><a id="leanModal" href="#">SOCIAL PHOTO DISPLAY TO SUPPORT DIOXIN-POISONED VICTIMS </a></h3>
 
 								</article>
 							</div>
 							<div class="4u 12u(mobile)">
 								<article class="box style2">
 								<!--		<a id="leanModal" href="#job3" class="image featured"><img src="images/huflit.jpg" alt="" /></a> -->
-									<h3><a id="leanModal" href="#job3">UNIVERSITY CAMPING TRIP – “HUFLIT’S 36 HOURS of LOVE”</a></h3>
+									<h3><a id="leanModal" href="#">UNIVERSITY CAMPING TRIP – “HUFLIT’S 36 HOURS of LOVE”</a></h3>
 
 								</article>
 							</div>
 						</div>
 
 						<div id="job1" class="article">
-							<p>Active member participating in “Thuy’s Dream” program, which was initiated by a major national newspaper, to provide material and spiritual support to children with cancer.     </p>
+							<p>Active member participating in “Thuy’s Dream” program, which was initiated by a major national newspaper, to provide material and spiritual support to children with cancer.</p>
 						</div>
 
 						<div id="job2" class="article">
@@ -173,7 +207,7 @@ Overall mark: 6.0  <br/>
 
 					</div>
 					<footer>
-						<p>Have a good impression?</p>
+						<p>Having a good impression?</p>
 						<a href="#contact" class="button big scrolly">Get in touch with me</a>
 					</footer>
 				</article>
@@ -184,40 +218,7 @@ Overall mark: 6.0  <br/>
 				<article id="contact" class="container 75%">
 
 					<div>
-					<!--	<div class="row">
-							<div class="12u">
-								<form method="post" action="#">
-									<div>
-										<div class="row">
-											<div class="6u 12u(mobile)">
-												<input type="text" name="name" id="name" placeholder="Name" />
-											</div>
-											<div class="6u 12u(mobile)">
-												<input type="text" name="email" id="email" placeholder="Email" />
-											</div>
-										</div>
-										<div class="row">
-											<div class="12u">
-												<input type="text" name="subject" id="subject" placeholder="Subject" />
-											</div>
-										</div>
-										<div class="row">
-											<div class="12u">
-												<textarea name="message" id="message" placeholder="Message"></textarea>
-											</div>
-										</div>
-										<div class="row 200%">
-											<div class="12u">
-												<ul class="actions">
-													<li><input type="submit" value="Send Message" /></li>
-													<li><input type="reset" value="Clear Form" class="alt" /></li>
-												</ul>
-											</div>
-										</div>
-									</div>
-								</form>
-							</div>
-						</div> -->
+				
 						<div class="row">
 							<div class="12u">
 
@@ -232,17 +233,6 @@ Overall mark: 6.0  <br/>
 									<li><a href="skype:vy.esl?chat" class="icon fa-skype"><span class="label">Skype</span></a></li>
 									<li><a href="mailto:doanduy.vy@gmail.com" class="icon fa-envelope"><span class="label">Skype</span></a></li>
 									<li><a href="tel:+84949826170" class="icon fa-phone" alt="+84949826170"><span class="label">Phone</span></a></li>
-									<!--
-									<li><a href="#" class="icon fa-rss"><span>RSS</span></a></li>
-									<li><a href="#" class="icon fa-instagram"><span>Instagram</span></a></li>
-									<li><a href="#" class="icon fa-foursquare"><span>Foursquare</span></a></li>
-									<li><a href="#" class="icon fa-skype"><span>Skype</span></a></li>
-									<li><a href="#" class="icon fa-soundcloud"><span>Soundcloud</span></a></li>
-									<li><a href="#" class="icon fa-youtube"><span>YouTube</span></a></li>
-									<li><a href="#" class="icon fa-blogger"><span>Blogger</span></a></li>
-									<li><a href="#" class="icon fa-flickr"><span>Flickr</span></a></li>
-									<li><a href="#" class="icon fa-vimeo"><span>Vimeo</span></a></li>
-									-->
 								</ul>
 								<hr />
 							</div>
